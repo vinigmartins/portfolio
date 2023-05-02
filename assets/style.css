@@ -123,7 +123,7 @@ a:hover {
 .nav-menu a:focus i {
     font-size: 24px;
     padding-right: 8px;
-    color: #6f7180;
+    color: #a8a9b4;
 }
 
 .nav-menu a:hover,
@@ -206,7 +206,7 @@ section {
 .about .content h3 {
     font-weight: 700;
     font-size: 26px;
-    color: #173b6c;
+    color: #2C2F3F;
 }
 
 .about .content .about-text {
@@ -260,14 +260,14 @@ section {
     display: flex;
     justify-content: space-between;
     font-weight: 600;
-    color: #050d18;
+    color: #2C2F3F;
 }
 
 /*--------------------------------------------------------------
   # Portfolio
   --------------------------------------------------------------*/
 .portfolio .card a {
-    color: black;
+    color: #272829;
 }
 .portfolio .card:hover {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
@@ -294,17 +294,14 @@ section {
 .contact ul a {
     font-size: 16px;
     margin-right: 5px;
-    color: #149ddd;
+    color: #fff;
     line-height: 0;
 }
 
 .contact a {
-    font-size: 20px;
-    color: #149ddd;
-    float: left;
     width: 44px;
     height: 44px;
-    background: #dff3fc;
+    background: #37b3ed;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -323,14 +320,14 @@ section {
   --------------------------------------------------------------*/
 #footer {
     padding: 15px;
-    color: #f4f6fd;
+    color: #F5F8FD;
     font-size: 14px;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 300px;
     z-index: 9999;
-    background: #040b14;
+    background: #040B14;
 }
 
 #footer .copyright {
